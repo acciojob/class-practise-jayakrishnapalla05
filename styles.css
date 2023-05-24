@@ -1,4 +1,5 @@
-#p1.para {
-	background: rgb(238,238,238);
-                color: rgb(0, 0, 255);
+.selector{
+	color:#00f;
+	background-color : #eee;
+	font-size:20px;
 }
